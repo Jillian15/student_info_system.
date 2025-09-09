@@ -22,17 +22,19 @@ python student_system.py
 
 
 
-📂 EXAMPLE RUN
-<img width="465" height="205" alt="image" src="https://github.com/user-attachments/assets/721a93ab-3c6f-4ccd-83e5-fe1e7fddd098" />
-<img width="465" height="205" alt="image" src="https://github.com/user-attachments/assets/c089110a-7363-46a1-8647-a2f281842375" />
-<img width="465" height="205" alt="image" src="https://github.com/user-attachments/assets/9d7c1ac2-bccf-446f-b979-9bea9164f14b" />
-<img width="465" height="205" alt="image" src="https://github.com/user-attachments/assets/ea20163c-f11b-43a6-9106-73d79398cfc6" />
-<img width="465" height="205" alt="image" src="https://github.com/user-attachments/assets/c03be30e-3dd7-4904-a4b9-0c930ba8cdd8" />
-<img width="465" height="205" alt="image" src="https://github.com/user-attachments/assets/8b2732ac-3f4b-48ab-951b-5804e8072b3b" />
+## Sreenshots
+Here are the screenshots of the system:
+![Screenshot A](a.png)
+![Screenshot B](b.png)
+![Screenshot C](c.png)
+![Screenshot D](d.png)
+![Screenshot E](e.png)
+![Screenshot F](f.png)
 
 
 
 ✍️ Author: JILLIAN GRACE C. NACASABUG
+
 
 
 
