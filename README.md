@@ -24,16 +24,13 @@ python student_system.py
 
 ## Sreenshots
 Here are the screenshots of the system:
-![Screenshot A](a.png)
-![Screenshot B](b.png)
-![Screenshot C](c.png)
-![Screenshot D](d.png)
-![Screenshot E](e.png)
-![Screenshot F](f.png)
+![Screenshot](./a.png)
+
 
 
 
 ✍️ Author: JILLIAN GRACE C. NACASABUG
+
 
 
 
