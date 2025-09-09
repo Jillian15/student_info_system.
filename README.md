@@ -17,21 +17,19 @@ This Python program manages student records with options to add, update, delete,
 
 
 📂 EXAMPLE RUN
+
 <img width="361" height="265" alt="image" src="https://github.com/user-attachments/assets/470ac305-2a29-478c-b8bb-bf409c27fd31" />
-
-<img width="361" height="265" alt="image" src="https://github.com/user-attachments/assets/a7175200-2c38-4441-8f6a-7e9188e8db14" />
-
-<img width="361" height="265" alt="image" src="https://github.com/user-attachments/assets/e6a2ffff-8256-4559-9c3f-ab01691af558" />
-
-<img width="361" height="265" alt="image" src="https://github.com/user-attachments/assets/426d31bf-d90d-4929-8487-68fa8a118826" />
-
-<img width="361" height="265" alt="image" src="https://github.com/user-attachments/assets/41190b54-3cce-473f-9ea2-6d2bed229919" />
-
-<img width="361" height="265" alt="image" src="https://github.com/user-attachments/assets/575f05f4-8878-4ed8-8451-bac12d7596fc" />
+<img width="331" height="232" alt="image" src="https://github.com/user-attachments/assets/8251274e-a743-4b00-a792-5eb39788fc39" />
+<img width="343" height="311" alt="image" src="https://github.com/user-attachments/assets/e91595b4-a655-414c-973a-076a08200cbb" />
+<img width="329" height="221" alt="image" src="https://github.com/user-attachments/assets/fba4f2b6-7b0c-4673-8d71-69bcf7da2162" />
+<img width="338" height="194" alt="image" src="https://github.com/user-attachments/assets/147396bd-4b5e-4d15-b098-a89e9082453f" />
+<img width="328" height="157" alt="image" src="https://github.com/user-attachments/assets/c9f7a40d-cd95-44f9-8d72-7164cfb653de" />
+<img width="478" height="218" alt="image" src="https://github.com/user-attachments/assets/c34b5383-0512-405c-93cf-c2052a420ae1" />
 
 
 
 ✍️ Author: JANNELLE DINGAL
+
 
 
 
