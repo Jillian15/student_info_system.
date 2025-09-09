@@ -28,7 +28,9 @@ This Python program manages student records with options to add, update, delete,
 
 
 
-✍️ Author: JANNELLE DINGAL
+✍️ Author: 
+JILLIAN GRACE C. NACASABUG
+
 
 
 
